@@ -1,0 +1,2 @@
+ely 3ayez ye7rk el pointer bta3 el file ( n ) characters from the current position ye3ml keda  file.seekg ( n , file.cur ) ; 
+welly 3ayez yerg3 ( n ) characters mn el current position ye3ml keda file.seekg ( -1*n , file.cur ) ; 
